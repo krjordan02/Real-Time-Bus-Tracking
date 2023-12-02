@@ -2,7 +2,7 @@
 
 ## Description
 
-A live bus tracker that displays all of the current Massachusetts BayTransportation Authority busses on a map.
+A live bus tracker that displays all of the current Massachusetts Bay Transportation Authority busses on a map.
 This program uses the MBTA API to get current bus information.
 
 ## Installation 
