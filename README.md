@@ -9,7 +9,7 @@ This program uses the MBTA API to get current bus information.
 
 ## My Real Time Bus Tracking
 
-<a href="https://krjordan02.github.io/Real-Time-Bus-Tracker/">Real Time Bus Tracker</a>
+<a href="https://krjordan02.github.io/Real-Time-Bus-Tracking/">Real Time Bus Tracker</a>
 
 ## Installation 
 
